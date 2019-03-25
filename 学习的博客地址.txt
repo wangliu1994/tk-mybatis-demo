@@ -1,0 +1,12 @@
+ swagger2.0的配置
+https://blog.csdn.net/u010192145/article/details/79216037     
+
+SpringBoot集成MyBatis
+https://www.jianshu.com/p/8138ccd0d900
+https://www.jianshu.com/p/4db902936b2910
+
+SpringBoot集成TkMybatis插件
+https://www.jianshu.com/p/50449dde7f2b
+
+mybatis中的mapper接口文件以及example类的实例函数以及详解
+https://blog.csdn.net/paincupid/article/details/50921110
